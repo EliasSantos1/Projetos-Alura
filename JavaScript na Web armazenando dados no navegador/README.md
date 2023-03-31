@@ -23,3 +23,7 @@ Neste repositório você tem acesso a todo o material produzido no curso.
 ## 🛠️ Abrir e rodar o projeto
 
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+
+## 📚 Mais informações do curso
+
+Busque na plataforma da Alura o curso [JavaScript na Web: armazenando dados no navegador](https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador) publicado na Escola Frontend.
